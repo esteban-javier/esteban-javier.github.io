@@ -11,7 +11,7 @@ en el mismo podran observar la aplicación de html con su estilización por medi
 **Screemshot**
 
 pagina web:
-![](https://i.snipboard.io/cdz2OX.jpg)
+![](https://i.snipboard.io/zwjrYI.jpg)
 
 proyecto calculadora:
 
